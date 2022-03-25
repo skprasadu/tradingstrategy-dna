@@ -4,6 +4,8 @@
 
 As a trader I want to be able to monitor stock prices such that when they breach a trigger level orders can be executed automatically.
 
+In order to run this, you need jdk 8 and above and Gradle build tool.
+
 Note:
 
 The implementation of PriceSource and EecutionService is out of scope, assuming that it will be provided by third party.
