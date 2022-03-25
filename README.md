@@ -4,7 +4,7 @@
 
 As a trader I want to be able to monitor stock prices such that when they breach a trigger level orders can be executed automatically.
 
-In order to run this, you need jdk 8 and above and Gradle build tool.
+In order to run this, you need jdk 8 and above and Gradle build tool. You need to run `gradle test`
 
 Note:
 
